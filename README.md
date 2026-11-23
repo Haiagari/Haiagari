@@ -27,6 +27,6 @@ I build open-source security tools and work on IT support and identity/access ma
 
 ## Connect
 
-- Portfolio: [portfolio-hazel-nu-16.vercel.app](https://portfolio-hazel-nu-16.vercel.app/)
+<!--- Portfolio: [portfolio-hazel-nu-16.vercel.app](https://portfolio-hazel-nu-16.vercel.app/)
 - LinkedIn: [linkedin.com/in/samuel-sr](https://www.linkedin.com/in/samuel-sr/)
 - Repositories: [github.com/Haiagari?tab=repositories](https://github.com/Haiagari?tab=repositories)
