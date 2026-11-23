@@ -1,4 +1,4 @@
-<h1 align="center">Samuel SR · Haiagari</h1>
+<!--<h1 align="center">Samuel SR · Haiagari</h1>
 
 <p align="center">
   <strong>Cybersecurity Technician · IT Support · AppSec</strong><br />
@@ -25,8 +25,8 @@ I build open-source security tools and work on IT support and identity/access ma
 
 `Go` `Python` `Bash` `JavaScript` `PHP/Laravel` `SQL` `Linux` `Docker` `Git` `GitHub Actions` `Active Directory` `GPO` `Fortinet` `CCTV` `OWASP Top 10` `IAM/RBAC`
 
-## Connect
+<!--## Connect
 
-<!--- Portfolio: [portfolio-hazel-nu-16.vercel.app](https://portfolio-hazel-nu-16.vercel.app/)
+ Portfolio: [portfolio-hazel-nu-16.vercel.app](https://portfolio-hazel-nu-16.vercel.app/)
 - LinkedIn: [linkedin.com/in/samuel-sr](https://www.linkedin.com/in/samuel-sr/)
 - Repositories: [github.com/Haiagari?tab=repositories](https://github.com/Haiagari?tab=repositories)
